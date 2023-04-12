@@ -1,3 +1,5 @@
+using NUnit.Framework;
+
 namespace PHPTravelsTestFramework
 {
     public class Tests
